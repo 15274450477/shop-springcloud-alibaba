@@ -1,0 +1,4 @@
+# Project exclude paths
+/shop-bean/target/
+/shop-user/target/
+/shop-utils/target/
